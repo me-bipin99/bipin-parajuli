@@ -1,4 +1,4 @@
-# Bipin Parajuli Portfolio
+# Portfolio
 
 Welcome to my personal portfolio! This project showcases my work as a **junior developer**, along with some of my  web experiments, and other coding projects.
 
