@@ -1,13 +1,6 @@
 # Bipin Parajuli Portfolio
 
-Welcome to my personal portfolio! This project showcases my work as a **junior developer**, along with some of my **React/Next.js projects**, web experiments, and other coding projects.
-
----
-
-## 🚀 About Me
-
-Hi, I'm **Bipin Parajuli**, a passionate developer and learner.  
-I enjoy building interactive web apps, exploring new technologies, and continuously improving my skills.
+Welcome to my personal portfolio! This project showcases my work as a **junior developer**, along with some of my  web experiments, and other coding projects.
 
 - 🌱 Currently learning: React, Next.js, TypeScript  
 - 💻 Interested in: Frontend Development, Full Stack Projects  
@@ -15,11 +8,6 @@ I enjoy building interactive web apps, exploring new technologies, and continuou
 
 ---
 
-## 🛠 Technologies Used
-
-- HTML, CSS, JavaScript  
-- React, Vite, TypeScript  
-- Git & GitHub for version control  
-- Netlify for deployment  
-
----
+## unemployment final boss
+-- desktop view only 
+--mobile view on pending
