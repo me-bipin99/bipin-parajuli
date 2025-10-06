@@ -375,7 +375,7 @@ Detects signs of fatigue to prevent accidents and enhance safety.
                 <div className="bg-zinc-800 p-3 rounded border border-zinc-700 group-hover:border-emerald-500 transition-colors">
                   <Linkedin className="w-5 h-5" />
                 </div>
-                <span className="font-mono">linkedin.com/in/bibin1256/</span>
+                <span className="font-mono">in/bibin1256/</span>
               </a>
             </div>
             <div className="mt-8 pt-8 border-t border-zinc-800">
